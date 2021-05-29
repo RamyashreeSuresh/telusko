@@ -3,3 +3,7 @@ hello checking the first git app
 secondly added text
 second_word
 second_sentence hello ramya
+
+third added text
+third_word
+third_sentence hello darsha
