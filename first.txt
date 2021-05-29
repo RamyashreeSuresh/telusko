@@ -8,6 +8,9 @@ third added text
 third_word
 third_sentence hello darsha
 
+third_half
+added to check the branch functionality
+
 fourht text
 fourth_word
 fourth_sentence hello family
